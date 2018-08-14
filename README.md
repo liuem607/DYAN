@@ -5,7 +5,7 @@ This repository provides training and testing code and data for ECCV 2018 paper:
 
 "DYAN - A Dynamical Atoms-Based Network For Video Prediction", Wenqian Liu, Abhishek Sharma, Octavia Camps, and Mario Sznaier
 
-Further information please contact Wenqian Liu at liu.wenqi@husky.neu.edu, Abhishek Sharma.
+Further information please contact Wenqian Liu at liu.wenqi@husky.neu.edu, Abhishek Sharma at sharma.abhis@husky.neu.edu.
 
 ## Requirements
 * [PyTorch](https://pytorch.org/) NOTE: previous versions(0.3 or below) might not work!

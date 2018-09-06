@@ -26,7 +26,7 @@ rootDir = 'your own data directory'
 ``` bash
 python train.py
 ```
-* Run the testing script:
+* Run the testing script: (need to set correct 'flowDir' in Test.py to your own optical flow files)
 ``` bash
 python Test.py
 ```

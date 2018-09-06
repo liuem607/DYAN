@@ -9,12 +9,12 @@ Further information please contact Wenqian Liu at liu.wenqi@husky.neu.edu, Abhis
 
 ## Requirements
 * [PyTorch](https://pytorch.org/) NOTE: previous versions(0.3 or below) might not work!
-* Python 3.6
+* Python 2.7
 * Cuda 9.0
 
 ## Data Preparation
 * Training Data: [UCF101](http://crcv.ucf.edu/data/UCF101.php) and [KITTI raw dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php).
-* Testing Data: [UCF](https://drive.google.com/drive/u/1/folders/1JFYBTeJQPEzpC0ExWNUV4-NKb02TmsIs), [Caltech](https://drive.google.com/drive/u/1/folders/1JFYBTeJQPEzpC0ExWNUV4-NKb02TmsIs), [Motion Masks](https://drive.google.com/drive/u/1/folders/1Wo1JKyYlB-5wcXis4jp3zpGYgJB5hcKo)
+* Testing Data: [UCF/Caltech/Motion Masks](https://drive.google.com/drive/u/1/folders/1JFYBTeJQPEzpC0ExWNUV4-NKb02TmsIs)
 
 ## Getting started
 * set training/testing data directory:

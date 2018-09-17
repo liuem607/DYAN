@@ -1,11 +1,9 @@
 # DYAN 
 
 ## Overview
-This repository provides training and testing code and data for ECCV 2018 paper:
+This repository provides training and testing code and data for ECCV 2018 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf):
 
 "DYAN - A Dynamical Atoms-Based Network For Video Prediction", Wenqian Liu, Abhishek Sharma, Octavia Camps, and Mario Sznaier
-
-[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)
 
 Further information please contact Wenqian Liu at liu.wenqi@husky.neu.edu, Abhishek Sharma at sharma.abhis@husky.neu.edu.
 

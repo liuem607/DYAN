@@ -4,7 +4,7 @@
 This repository provides training and testing code and data for ECCV 2018 paper:
 
 "DYAN - A Dynamical Atoms-Based Network For Video Prediction", Wenqian Liu, Abhishek Sharma, Octavia Camps, and Mario Sznaier
-
+[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wenqian_Liu_DYAN_A_Dynamical_ECCV_2018_paper.pdf)
 Further information please contact Wenqian Liu at liu.wenqi@husky.neu.edu, Abhishek Sharma at sharma.abhis@husky.neu.edu.
 
 ## Requirements
@@ -51,5 +51,11 @@ Clone pyflow repo and compile on your own machine. Then run our util/saveflows.p
 The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
 
 ```
-
+@InProceedings{Liu_2018_ECCV,
+author = {Liu, Wenqian and Sharma, Abhishek and Camps, Octavia and Sznaier, Mario},
+title = {DYAN: A Dynamical Atoms-Based Network For Video Prediction},
+booktitle = {The European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+}
 ```

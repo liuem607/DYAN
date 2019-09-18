@@ -15,7 +15,7 @@ Further information please contact Wenqian Liu at liu.wenqi@husky.neu.edu, Abhis
 
 ## Data Preparation
 * Training Data: [UCF101](http://crcv.ucf.edu/data/UCF101.php) and [KITTI raw dataset](http://www.cvlibs.net/datasets/kitti/raw_data.php).
-* Testing Data: [UCF/Caltech/Motion Masks](https://drive.google.com/drive/u/1/folders/1JFYBTeJQPEzpC0ExWNUV4-NKb02TmsIs)
+* Testing Data: [TestingData](https://drive.google.com/drive/u/1/folders/1JFYBTeJQPEzpC0ExWNUV4-NKb02TmsIs)
 
 ## Getting started
 * set training/testing data directory:

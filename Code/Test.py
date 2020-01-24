@@ -159,11 +159,11 @@ for	numfo,folder in enumerate(testFoldeList):
 #        with torch.no_grad():
 #            ofprediction = ofmodel.forward(Variable(ofinputData))[:,9,:].data.resize(2,128,160).unsqueeze(0)
 
-#warpedPrediction = warp(tensorinput,ofprediction).squeeze(0).permute(1,2,0).cpu().numpy()
-#    img_back = np.clip(warpedPrediction, 0, 1.)
-#    meanserror = np.mean( (img_back - original) ** 2 )
-#    mse.append(meanserror)
-#    ssim.append(SSIM(original, img_back))
+#        warpedPrediction = warp(tensorinput,ofprediction).squeeze(0).permute(1,2,0).cpu().numpy()
+#        img_back = np.clip(warpedPrediction, 0, 1.)
+#        meanserror = np.mean( (img_back - original) ** 2 )
+#        mse.append(meanserror)
+#        ssim.append(SSIM(original, img_back))
 
 #print("MSE : ", np.mean(np.array(mse)))
 #print("SSIMs : ", np.mean(np.array(ssim)))
